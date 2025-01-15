@@ -1,4 +1,4 @@
-## Hello, I am a student of ELAM studying Fine Arts
+## Hello, I am a student of UOA studying Fine Arts
 
 <!--
 **MiroW-L/MiroW-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
